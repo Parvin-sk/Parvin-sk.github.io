@@ -1,108 +1,27 @@
-Paragraph
-This is a paragraph.
+<h1 align="center">Hi 👋, I'm Sankeerthana</h1>
+<h3 align="center">A passionate python developer from India</h3>
 
-Headings
-# Heading 1
-## Heading 2
-### Heading 3
-#### Heading 4
-##### Heading 5
-###### Heading 6
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sankeerthana99&label=Profile%20views&color=0e75b6&style=flat" alt="sankeerthana99" /> </p>
 
-Emphasis
-Using two asterisks **this text is bold**.  
-Two underscores __work as well__.  
-Let's make it *italic now*.  
-You guessed it, _one underscore is also enough_.  
-Can we combine **_both of that_?** Absolutely.
-What if I want to ~~strikethrough~~?
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sankeerthana99" alt="sankeerthana99" /></a> </p>
 
-Blockquote
-> This is a blockquote.
-> Want to write on a new line with space between?
->
-> > And nested? No problem at all.
-> >
-> > > PS. you can **style** your text _as you want_.
 
- Images
- ![text if the image fails to load](auto-generated-path-to-file-when-you-upload-image "Text displayed on hover")
+- 📫 How to reach me ***parvinsk933@gmail.com***
 
-[logo]: auto-generated-path-to-file-when-you-upload-image "Hover me"
-![error text][logo]
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/sankeerthana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sankeerthana" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hema sankeerthana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hema sankeerthana" height="30" width="40" /></a>
+<a href="https://fb.com/keerthi chowdary alapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="keerthi chowdary alapati" height="30" width="40" /></a>
+<a href="https://instagram.com/keerthi_chowdhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="keerthi_chowdhary" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/keerthi chowdary alapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="keerthi chowdary alapati" height="30" width="40" /></a>
+</p>
 
-Ordered List
-1. HTML
-2. CSS
-3. Javascript
-4. React
-7. I'm Frontend Dev now 👨🏼‍🎨
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-Unordered List   
-- Node.js
-+ Express
-* Nest.js
-- Learning Backend ⌛️
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sankeerthana99&show_icons=true&locale=en&layout=compact" alt="sankeerthana99" /></p>
 
-  Mixed List
-  1. Learn Basics
-   1. HTML
-   2. CSS
-   7. Javascript
-2. Learn One Framework
-   - React 
-     - Router
-     - Redux
-   * Vue
-   + Svelte
-  
-   Table
-   | Left Align (default) | Center Align | Right Align |
-| :------------------- | :----------: | ----------: |
-| React.js             | Node.js      | MySQL       |
-| Next.js              | Express      | MongoDB     |
-| Vue.js               | Nest.js      | Redis       |
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sankeerthana99&show_icons=true&locale=en" alt="sankeerthana99" /></p>
 
-Footnote
-#### I am working on a new project. [^1]
-[^1]: Stack is: React, Typescript, Tailwind CSS  
-
-Project is about music & movies.
-
-##### Hope you will like it. [^see]
-[^see]: Loading... ⌛️
-
-Horizontal Line
-First Horizontal Line
-
-***
-
-Second One
-
------
-
-Third
-
-_________
-
-HTML
-<h1>This is a heading</h1>
-<p>Paragraph...</p>
-
-<hr />
-
-<img src="auto-generated-path-to-file-when-you-upload-image" width="200">
-<a href="https://github.com/im-luka">Follow me on GitHub</a>
-
-<br />
-<br />
-
-<p>Quick hack for <strong><em>centering image</em></strong>?</p>
-<p align="center"><img src="auto-generated-path-to-file-when-you-upload-image" /></p>
-
-<details>
-  <summary>One more quick hack? 🎭</summary>
-  
-  → Easy  
-  → And simple
-</details>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sankeerthana99&" alt="sankeerthana99" /></p>
